@@ -25,6 +25,8 @@ root                    (project root folder)
   +-- constants.py      (game constants)
 +-- README.md           (general info)
 
+
+
 DESIGN NOTES:
 
 Data Text Files will be used similar to the bricks in the batter game
