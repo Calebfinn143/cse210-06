@@ -35,11 +35,15 @@ Update sounds to explosion for hitting a bomb, funeral for game over, and possib
 
 
 BASIC GAME PLAY:
-
-3 Lives per Level.
-Can move on to next level at any point.
-Can find rocks, gems, or bombs.
-Lives reset every level.
+You will take on the role of a miner digging for hidden gems in a mine field!
+You will start out on level one where you will be able to mine each square you enter in hopes
+of finding a gem. But beware! There are still some active mines that can blow you away!
+Due to your hardy nature you are able to survive up to two explosions but if you get caught
+a third time it will be game over. However you can at any point pack up and move on to the
+next level. After moving to the next level you will have time to rest and your lives will
+restart. Gems will be of varying worth and the higher the level the further you have
+gone into the mine field, meaning more bombs. Among your digging you may encounter rocks
+which sadly will not be worth anything.
 
 
 
